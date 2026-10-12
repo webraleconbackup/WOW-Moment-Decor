@@ -12,17 +12,17 @@ const Baby = () => {
       <Helmet>
   {/* Primary SEO */}
   <title>
-    Baby Shower Decoration in Noida | Balloon Decor | 9896860316
+    Baby Shower Decoration in Gurgaon | Balloon Decor | 9896860316
   </title>
 
   <meta
     name="description"
-    content="Book the best baby shower decoration in Noida with Wow Moments Decor. Elegant balloon decoration, baby shower themes, backdrop decoration, welcome board & customized baby shower setups."
+    content="Book the best baby shower decoration in Gurgaon with Wow Moments Decor. Elegant balloon decoration, baby shower themes, backdrop decoration, welcome board & customized baby shower setups."
   />
 
   <meta
     name="keywords"
-    content="baby shower decoration in Noida, baby shower balloon decoration in Noida, baby shower decorator in Noida, baby shower theme decoration in Noida, baby shower backdrop decoration in Noida, baby shower event decoration in Noida, mom to be decoration in Noida, baby shower party decoration in Noida, Wow Moments Decor"
+    content="baby shower decoration in Gurgaon, baby shower balloon decoration in Gurgaon, baby shower decorator in Gurgaon, baby shower theme decoration in Gurgaon, baby shower backdrop decoration in Gurgaon, baby shower event decoration in Gurgaon, mom to be decoration in Gurgaon, baby shower party decoration in Gurgaon, Wow Moments Decor"
   />
 
   <meta name="author" content="Wow Moments Decor" />
@@ -39,12 +39,12 @@ const Baby = () => {
   {/* Open Graph */}
   <meta
     property="og:title"
-    content="Baby Shower Decoration in Noida | Wow Moments Decor"
+    content="Baby Shower Decoration in Gurgaon | Wow Moments Decor"
   />
 
   <meta
     property="og:description"
-    content="Celebrate your baby shower with premium balloon decoration, elegant backdrops, customized themes, welcome boards, and beautiful baby shower décor in Noida."
+    content="Celebrate your baby shower with premium balloon decoration, elegant backdrops, customized themes, welcome boards, and beautiful baby shower décor in Gurgaon."
   />
 
   <meta
@@ -66,12 +66,12 @@ const Baby = () => {
 
   <meta
     name="twitter:title"
-    content="Baby Shower Decoration in Noida | Wow Moments Decor"
+    content="Baby Shower Decoration in Gurgaon | Wow Moments Decor"
   />
 
   <meta
     name="twitter:description"
-    content="Book premium baby shower decoration in Noida. Balloon décor, customized baby shower themes, elegant backdrops, welcome boards & complete party decoration."
+    content="Book premium baby shower decoration in Gurgaon. Balloon décor, customized baby shower themes, elegant backdrops, welcome boards & complete party decoration."
   />
 
   <meta

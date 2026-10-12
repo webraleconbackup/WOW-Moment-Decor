@@ -8,7 +8,7 @@ const testimonials = [
     type: 'video',
     src: '/testimonial/testi1.mp4',
     text: 'Amazing experience! Everything was beautifully arranged.',
-    name: 'Mrs Parul Puri Agrawl, Noida',
+    name: 'Mrs Parul Puri Agrawl, Gurgaon',
   },
   {
     id: 2,

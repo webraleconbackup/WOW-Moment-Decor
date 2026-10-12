@@ -27,16 +27,16 @@ const Home = () => {
     <div>
       <Helmet>
         {/* Primary SEO */}
-        <title>Balloon Decoration in Noida | Wow Moments Decor</title>
+        <title>Balloon Decoration in Gurgaon | Wow Moments Decor</title>
 
         <meta
           name='description'
-          content='Wow Moments Decor offers premium balloon decoration services in Noida. Book birthday, anniversary, baby shower, welcome baby, Haldi, festival, and room decoration with same-day service.'
+          content='Wow Moments Decor offers premium balloon decoration services in Gurgaon. Book birthday, anniversary, baby shower, welcome baby, Haldi, festival, and room decoration with same-day service.'
         />
 
         <meta
           name='keywords'
-          content='balloon decoration Noida, birthday decoration Noida, anniversary decoration Noida, baby welcome decoration Noida, Haldi decoration Noida, festival decoration Noida, room decoration Noida, proposal decoration Noida, event decoration Noida, balloon decorator Noida, Greater Noida decoration, Noida decoration, Wow Moments Decor'
+          content='balloon decoration Gurgaon, birthday decoration Gurgaon, anniversary decoration Gurgaon, baby welcome decoration Gurgaon, Haldi decoration Gurgaon, festival decoration Gurgaon, room decoration Gurgaon, proposal decoration Gurgaon, event decoration Gurgaon, balloon decorator Gurgaon, Greater Gurgaon decoration, Gurgaon decoration, Wow Moments Decor'
         />
 
         <meta name='author' content='Wow Moments Decor' />
@@ -46,13 +46,13 @@ const Home = () => {
 
         {/* Geo Tags */}
         <meta name='geo.region' content='IN-UP' />
-        <meta name='geo.placename' content='Noida' />
+        <meta name='geo.placename' content='Gurgaon' />
         <meta name='geo.position' content='28.544;77.367' />
         <meta name='ICBM' content='28.544,77.367' />
 
         <meta
           name='address'
-          content='1013 Gf Block N Mayfield Garden, Sector 51 Noida, 122003 Uttar Pradesh India'
+          content='1013 Gf Block N Mayfield Garden, Sector 51 Gurgaon, 122003 Uttar Pradesh India'
         />
 
         {/* Canonical */}
@@ -67,12 +67,12 @@ const Home = () => {
 
         <meta
           property='og:title'
-          content='Balloon Decoration in Noida | Wow Moments Decor'
+          content='Balloon Decoration in Gurgaon | Wow Moments Decor'
         />
 
         <meta
           property='og:description'
-          content='Premium balloon decoration services in Noida for birthdays, anniversaries, baby welcome, Haldi, festivals, room decoration and special occasions.'
+          content='Premium balloon decoration services in Gurgaon for birthdays, anniversaries, baby welcome, Haldi, festivals, room decoration and special occasions.'
         />
 
         <meta
@@ -85,12 +85,12 @@ const Home = () => {
 
         <meta
           name='twitter:title'
-          content='Balloon Decoration in Noida | Wow Moments Decor'
+          content='Balloon Decoration in Gurgaon | Wow Moments Decor'
         />
 
         <meta
           name='twitter:description'
-          content='Premium balloon decoration services in Noida. Book birthday, anniversary, baby welcome, Haldi, festival and room decoration.'
+          content='Premium balloon decoration services in Gurgaon. Book birthday, anniversary, baby welcome, Haldi, festival and room decoration.'
         />
 
         <meta
@@ -110,12 +110,12 @@ const Home = () => {
             address: {
               '@type': 'PostalAddress',
               streetAddress: '1013 Gf Block N Mayfield Garden, Sector 51',
-              addressLocality: 'Noida',
+              addressLocality: 'Gurgaon',
               addressRegion: 'Uttar Pradesh',
               postalCode: '122003',
               addressCountry: 'IN',
             },
-            areaServed: ['Noida'],
+            areaServed: ['Gurgaon'],
           })}
         </script>
       </Helmet>

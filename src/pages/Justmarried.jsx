@@ -12,17 +12,17 @@ const Justmarried = () => {
       <Helmet>
         {/* Primary SEO */}
         <title>
-          Just Married Room Decoration in Noida | Romantic Decor | 9896860316
+          Just Married Room Decoration in Gurgaon | Romantic Decor | 9896860316
         </title>
 
         <meta
           name='description'
-          content='Book the best Just Married room decoration in Noida with Wow Moments Decor. We provide romantic balloon decoration, flower decoration, bed decoration, honeymoon room décor, and surprise wedding night setups in Noida.'
+          content='Book the best Just Married room decoration in Gurgaon with Wow Moments Decor. We provide romantic balloon decoration, flower decoration, bed decoration, honeymoon room décor, and surprise wedding night setups in Gurgaon.'
         />
 
         <meta
           name='keywords'
-          content='Just Married decoration in Noida, Just Married room decoration in Noida, wedding room decoration in Noida, honeymoon room decoration in Noida, first night decoration in Noida, romantic room decoration in Noida, romantic balloon decoration in Noida, flower decoration in Noida, bed decoration in Noida, newly married room decoration in Noida, surprise wedding night decoration in Noida, Wow Moments Decor'
+          content='Just Married decoration in Gurgaon, Just Married room decoration in Gurgaon, wedding room decoration in Gurgaon, honeymoon room decoration in Gurgaon, first night decoration in Gurgaon, romantic room decoration in Gurgaon, romantic balloon decoration in Gurgaon, flower decoration in Gurgaon, bed decoration in Gurgaon, newly married room decoration in Gurgaon, surprise wedding night decoration in Gurgaon, Wow Moments Decor'
         />
 
         <meta name='author' content='Wow Moments Decor' />
@@ -39,12 +39,12 @@ const Justmarried = () => {
         {/* Open Graph */}
         <meta
           property='og:title'
-          content='Just Married Room Decoration in Noida | Wow Moments Decor'
+          content='Just Married Room Decoration in Gurgaon | Wow Moments Decor'
         />
 
         <meta
           property='og:description'
-          content='Celebrate your new beginning with premium Just Married room decoration in Noida. Romantic balloon décor, flower decoration, bed decoration, honeymoon room décor, and surprise wedding night setups.'
+          content='Celebrate your new beginning with premium Just Married room decoration in Gurgaon. Romantic balloon décor, flower decoration, bed decoration, honeymoon room décor, and surprise wedding night setups.'
         />
 
         <meta
@@ -66,12 +66,12 @@ const Justmarried = () => {
 
         <meta
           name='twitter:title'
-          content='Just Married Room Decoration in Noida | Wow Moments Decor'
+          content='Just Married Room Decoration in Gurgaon | Wow Moments Decor'
         />
 
         <meta
           name='twitter:description'
-          content='Book premium Just Married room decoration in Noida. Romantic balloon décor, flower decoration, honeymoon room décor, bed decoration, and surprise wedding night setups.'
+          content='Book premium Just Married room decoration in Gurgaon. Romantic balloon décor, flower decoration, honeymoon room décor, bed decoration, and surprise wedding night setups.'
         />
 
         <meta

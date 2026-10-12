@@ -11,16 +11,16 @@ const Festival = () => {
     <>
       <Helmet>
         {/* Primary SEO */}
-        <title>Festival Decoration in Noida | Event Decor | 9896860316</title>
+        <title>Festival Decoration in Gurgaon | Event Decor | 9896860316</title>
 
         <meta
           name='description'
-          content='Book the best festival decoration in Noida with Wow Moments Decor. Diwali decoration, Ganesh Chaturthi décor, floral decoration, festive lighting, temple decoration & customized festival setups.'
+          content='Book the best festival decoration in Gurgaon with Wow Moments Decor. Diwali decoration, Ganesh Chaturthi décor, floral decoration, festive lighting, temple decoration & customized festival setups.'
         />
 
         <meta
           name='keywords'
-          content='festival decoration Noida, festive decoration Noida, Diwali decoration Noida, Ganesh Chaturthi decoration Noida, temple decoration Noida, floral decoration Noida, festive lighting Noida, event decoration Noida, festival decorator Noida, Wow Moments Decor'
+          content='festival decoration Gurgaon, festive decoration Gurgaon, Diwali decoration Gurgaon, Ganesh Chaturthi decoration Gurgaon, temple decoration Gurgaon, floral decoration Gurgaon, festive lighting Gurgaon, event decoration Gurgaon, festival decorator Gurgaon, Wow Moments Decor'
         />
 
         <meta name='author' content='Wow Moments Decor' />
@@ -37,12 +37,12 @@ const Festival = () => {
         {/* Open Graph */}
         <meta
           property='og:title'
-          content='Festival Decoration in Noida | Wow Moments Decor'
+          content='Festival Decoration in Gurgaon | Wow Moments Decor'
         />
 
         <meta
           property='og:description'
-          content='Celebrate every festival with premium festival decoration in Noida. Diwali décor, Ganesh Chaturthi decoration, floral arrangements, temple decoration, festive lighting & customized themes.'
+          content='Celebrate every festival with premium festival decoration in Gurgaon. Diwali décor, Ganesh Chaturthi decoration, floral arrangements, temple decoration, festive lighting & customized themes.'
         />
 
         <meta
@@ -64,12 +64,12 @@ const Festival = () => {
 
         <meta
           name='twitter:title'
-          content='Festival Decoration in Noida | Wow Moments Decor'
+          content='Festival Decoration in Gurgaon | Wow Moments Decor'
         />
 
         <meta
           name='twitter:description'
-          content='Book premium festival decoration in Noida. Diwali decoration, Ganesh Chaturthi décor, floral decoration, temple decoration, festive lighting & customized festival themes.'
+          content='Book premium festival decoration in Gurgaon. Diwali decoration, Ganesh Chaturthi décor, floral decoration, temple decoration, festive lighting & customized festival themes.'
         />
 
         <meta

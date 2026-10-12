@@ -13,7 +13,7 @@ export default function WhyChooseUs() {
 
           <h1 className='text-3xl md:text-4xl lg:text-5xl text-[#D4A017] font-bold leading-tight mb-6'>
             Best Event Management <br />
-            <span className='text-white'>Company in Noida</span>
+            <span className='text-white'>Company in Gurgaon</span>
           </h1>
 
           <p className='text-gray-300 text-xl leading-relaxed mb-6'>

@@ -101,7 +101,7 @@ const Footer = () => {
 
               <div className='flex gap-3'>
                 <MapPin className='text-pink-700 mt-1 shrink-0' size={22} />
-                <span>Noida sector 49. Uttar Pradesh, India</span>
+                <span>House no 815 gf, Block N, Mayfield Garden, Sector 51, Gurugram, Samaspur, Haryana 122018</span>
               </div>
             </div>
 

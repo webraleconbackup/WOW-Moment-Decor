@@ -13,17 +13,17 @@ const Birthday = () => {
       <Helmet>
         {/* Primary SEO */}
         <title>
-          Birthday Decoration in Noida | Balloon Decor | 9896860316
+          Birthday Decoration in Gurgaon | Balloon Decor | 9896860316
         </title>
 
         <meta
           name='description'
-          content='Book the best birthday decoration in Noida with Wow Moments Decor. Balloon decoration, room decoration, surprise birthday setups, customized themes, hotel room décor & affordable birthday party packages.'
+          content='Book the best birthday decoration in Gurgaon with Wow Moments Decor. Balloon decoration, room decoration, surprise birthday setups, customized themes, hotel room décor & affordable birthday party packages.'
         />
 
         <meta
           name='keywords'
-          content='birthday decoration in Noida, birthday balloon decoration in Noida, birthday room decoration in Noida, birthday party decoration in Noida, hotel room birthday decoration in Noida, surprise birthday decoration in Noida, birthday decorator in Noida, birthday theme decoration in Noida, Wow Moments Decor'
+          content='birthday decoration in Gurgaon, birthday balloon decoration in Gurgaon, birthday room decoration in Gurgaon, birthday party decoration in Gurgaon, hotel room birthday decoration in Gurgaon, surprise birthday decoration in Gurgaon, birthday decorator in Gurgaon, birthday theme decoration in Gurgaon, Wow Moments Decor'
         />
 
         <meta name='author' content='Wow Moments Decor' />
@@ -40,12 +40,12 @@ const Birthday = () => {
         {/* Open Graph */}
         <meta
           property='og:title'
-          content='Birthday Decoration in Noida | Wow Moments Decor'
+          content='Birthday Decoration in Gurgaon | Wow Moments Decor'
         />
 
         <meta
           property='og:description'
-          content='Celebrate your special day with premium birthday decoration in Noida. Balloon decoration, room décor, hotel room decoration, customized themes & surprise birthday setups.'
+          content='Celebrate your special day with premium birthday decoration in Gurgaon. Balloon decoration, room décor, hotel room decoration, customized themes & surprise birthday setups.'
         />
 
         <meta
@@ -67,12 +67,12 @@ const Birthday = () => {
 
         <meta
           name='twitter:title'
-          content='Birthday Decoration in Noida | Wow Moments Decor'
+          content='Birthday Decoration in Gurgaon | Wow Moments Decor'
         />
 
         <meta
           name='twitter:description'
-          content='Book premium birthday decoration in Noida. Balloon decoration, room décor, hotel room decoration, customized birthday themes & surprise party setups.'
+          content='Book premium birthday decoration in Gurgaon. Balloon decoration, room décor, hotel room decoration, customized birthday themes & surprise party setups.'
         />
 
         <meta

@@ -3,37 +3,37 @@ import React, { useEffect, useState } from "react";
 const testimonials = [
   {
     name: "Neha Sharma",
-    city: "Sector 56, Noida",
+    city: "Sector 56, Gurgaon",
     message:
       "I booked a surprise birthday decoration for my husband, and everything looked exactly as promised. The team arrived on time and completed the setup beautifully. Highly recommended!",
   },
   {
     name: "Amit Verma",
-    city: "DLF Phase 3, Noida",
+    city: "DLF Phase 3, Gurgaon",
     message:
       "The anniversary room decoration was elegant and well-organized. The balloons, candles, and flower arrangement created a perfect surprise. Thank you for making our evening memorable.",
   },
   {
     name: "Priya Singh",
-    city: "Sector 46, Noida",
+    city: "Sector 46, Gurgaon",
     message:
       "We booked a baby welcome decoration at the last minute, and the team managed everything perfectly. The decoration looked amazing, and everyone in the family loved it.",
   },
   {
     name: "Rahul Malhotra",
-    city: "Sushant Lok, Noida",
+    city: "Sushant Lok, Gurgaon",
     message:
       "Very professional service with good quality decorations. They listened to our requirements and delivered exactly what we wanted. Definitely booking again for future celebrations.",
   },
   {
     name: "Sneha Kapoor",
-    city: "Sector 51, Noida",
+    city: "Sector 51, Gurgaon",
     message:
       "The proposal decoration was absolutely beautiful. Every detail was carefully arranged, and the photos turned out amazing. Thank you for making our special day unforgettable.",
   },
   {
     name: "Karan Mehta",
-    city: "Palam Vihar, Noida",
+    city: "Palam Vihar, Gurgaon",
     message:
       "Excellent experience from booking to decoration. The team was polite, punctual, and the entire setup exceeded our expectations. Great value for money.",
   },

@@ -11,16 +11,16 @@ const Haldi = () => {
     <>
       <Helmet>
         {/* Primary SEO */}
-        <title>Haldi Decoration in Noida | Wedding Decor | 9896860316</title>
+        <title>Haldi Decoration in Gurgaon | Wedding Decor | 9896860316</title>
 
         <meta
           name='description'
-          content='Book the best Haldi decoration in Noida with Wow Moments Decor. We provide floral Haldi décor, marigold decoration, Haldi backdrops, bride & groom seating, and customized Haldi ceremony setups in Noida.'
+          content='Book the best Haldi decoration in Gurgaon with Wow Moments Decor. We provide floral Haldi décor, marigold decoration, Haldi backdrops, bride & groom seating, and customized Haldi ceremony setups in Gurgaon.'
         />
 
         <meta
           name='keywords'
-          content='Haldi decoration in Noida, Haldi ceremony decoration in Noida, Haldi backdrop decoration in Noida, floral Haldi decoration in Noida, marigold Haldi decoration in Noida, wedding Haldi decoration in Noida, bride and groom Haldi decoration in Noida, Haldi event decorator in Noida, Haldi stage decoration in Noida, Haldi party decoration in Noida, Haldi setup in Noida, Wow Moments Decor'
+          content='Haldi decoration in Gurgaon, Haldi ceremony decoration in Gurgaon, Haldi backdrop decoration in Gurgaon, floral Haldi decoration in Gurgaon, marigold Haldi decoration in Gurgaon, wedding Haldi decoration in Gurgaon, bride and groom Haldi decoration in Gurgaon, Haldi event decorator in Gurgaon, Haldi stage decoration in Gurgaon, Haldi party decoration in Gurgaon, Haldi setup in Gurgaon, Wow Moments Decor'
         />
 
         <meta name='author' content='Wow Moments Decor' />
@@ -37,12 +37,12 @@ const Haldi = () => {
         {/* Open Graph */}
         <meta
           property='og:title'
-          content='Haldi Decoration in Noida | Wow Moments Decor'
+          content='Haldi Decoration in Gurgaon | Wow Moments Decor'
         />
 
         <meta
           property='og:description'
-          content='Celebrate your Haldi ceremony with premium floral decoration, marigold themes, elegant backdrops, bride & groom seating, and customized Haldi decoration in Noida.'
+          content='Celebrate your Haldi ceremony with premium floral decoration, marigold themes, elegant backdrops, bride & groom seating, and customized Haldi decoration in Gurgaon.'
         />
 
         <meta
@@ -64,12 +64,12 @@ const Haldi = () => {
 
         <meta
           name='twitter:title'
-          content='Haldi Decoration in Noida | Wow Moments Decor'
+          content='Haldi Decoration in Gurgaon | Wow Moments Decor'
         />
 
         <meta
           name='twitter:description'
-          content='Book premium Haldi decoration in Noida. Floral décor, marigold themes, Haldi backdrops, bride & groom seating, and customized Haldi ceremony setups.'
+          content='Book premium Haldi decoration in Gurgaon. Floral décor, marigold themes, Haldi backdrops, bride & groom seating, and customized Haldi ceremony setups.'
         />
 
         <meta

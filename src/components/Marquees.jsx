@@ -7,8 +7,8 @@ function Marquees() {
   🎉 Get 10% Off on Your First Balloon Decoration! &nbsp;|&nbsp;
   ✨ Turning Dreams into Elegant Celebrations ✨ &nbsp;|&nbsp;
   🎈 Birthday • Anniversary • Baby Welcome • Haldi • Mehndi Decorations &nbsp;|&nbsp;
-  📍 Now Serving Noida &nbsp;|&nbsp;
-  🛕 Visit Us: Noida sector 49.  Noida &nbsp;|&nbsp;
+  📍 Now Serving Gurgaon &nbsp;|&nbsp;
+  🛕 Visit Us: Gurgaon sector 49.  Gurgaon &nbsp;|&nbsp;
   📞 Call Now: +91 9896860316 &nbsp;|&nbsp;
   🕒 24×7 Booking Available
 </Marquee>

@@ -12,17 +12,17 @@ const Anniversary = () => {
       <Helmet>
   {/* Primary SEO */}
   <title>
-    Anniversary Decoration in Noida | Romantic Room Decor | 9896860316
+    Anniversary Decoration in Gurgaon | Romantic Room Decor | 9896860316
   </title>
 
   <meta
     name="description"
-    content="Book the best anniversary decoration in Noida with Wow Moments Decor. Romantic room decoration, balloon decoration, candlelight dinner setup, hotel room décor & surprise anniversary packages."
+    content="Book the best anniversary decoration in Gurgaon with Wow Moments Decor. Romantic room decoration, balloon decoration, candlelight dinner setup, hotel room décor & surprise anniversary packages."
   />
 
   <meta
     name="keywords"
-    content="anniversary decoration in Noida, anniversary room decoration in Noida, romantic room decoration in Noida, anniversary balloon decoration in Noida, candlelight dinner decoration in Noida, hotel room decoration in Noida, surprise anniversary decoration in Noida, anniversary decorator in Noida, Wow Moments Decor"
+    content="anniversary decoration in Gurgaon, anniversary room decoration in Gurgaon, romantic room decoration in Gurgaon, anniversary balloon decoration in Gurgaon, candlelight dinner decoration in Gurgaon, hotel room decoration in Gurgaon, surprise anniversary decoration in Gurgaon, anniversary decorator in Gurgaon, Wow Moments Decor"
   />
 
   <meta name="author" content="Wow Moments Decor" />
@@ -39,12 +39,12 @@ const Anniversary = () => {
   {/* Open Graph */}
   <meta
     property="og:title"
-    content="Anniversary Decoration in Noida | Wow Moments Decor"
+    content="Anniversary Decoration in Gurgaon | Wow Moments Decor"
   />
 
   <meta
     property="og:description"
-    content="Make your anniversary unforgettable with romantic room decoration, balloon décor, rose petals, candlelight setups, hotel room decoration, and surprise anniversary packages in Noida."
+    content="Make your anniversary unforgettable with romantic room decoration, balloon décor, rose petals, candlelight setups, hotel room decoration, and surprise anniversary packages in Gurgaon."
   />
 
   <meta
@@ -66,12 +66,12 @@ const Anniversary = () => {
 
   <meta
     name="twitter:title"
-    content="Anniversary Decoration in Noida | Wow Moments Decor"
+    content="Anniversary Decoration in Gurgaon | Wow Moments Decor"
   />
 
   <meta
     name="twitter:description"
-    content="Book premium anniversary decoration services in Noida. Romantic room décor, balloon decoration, candlelight dinner setup, hotel decoration & surprise anniversary themes."
+    content="Book premium anniversary decoration services in Gurgaon. Romantic room décor, balloon decoration, candlelight dinner setup, hotel decoration & surprise anniversary themes."
   />
 
   <meta
